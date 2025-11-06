@@ -148,14 +148,9 @@ This project can be used for:
 ---
 
 ## 📸 Screenshots
-
-*(Add your actual terminal screenshots here once you record the output)*
-
-```
-📂 assets/
- ┣ 📸 output.png
-```
-
+Here’s a quick look at how the Newtonify Trajectory simulation works 🚀
+![Newtonify Trajectory Demo](https://github.com/Layyzyy/Newtonify_Trajectory/blob/main/assets/output.png?raw=true)
+*(The apple follows a realistic projectile motion curve, showing gravity’s effect in real time!)*
 
 
 ---

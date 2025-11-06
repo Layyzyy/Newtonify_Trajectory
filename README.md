@@ -153,14 +153,10 @@ This project can be used for:
 
 ```
 📂 assets/
- ┣ 📸 demo1.png
- ┣ 📸 demo2.png
+ ┣ 📸 output.png
 ```
 
-Use Markdown image syntax like:
-```markdown
-![Newton Arc Demo](assets/demo1.png)
-```
+
 
 ---
 

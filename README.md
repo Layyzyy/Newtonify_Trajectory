@@ -166,7 +166,7 @@ Here’s a quick look at how the Newtonify Trajectory simulation works 🚀
 ## 🪄 License
 
 This project is licensed under the **MIT License**  
-© 2025 — Created with ❤️ and physics by *Layyshahh*
+© 2025 — Created with ❤️ and physics by *Lay Shah*
 
 ---
 
